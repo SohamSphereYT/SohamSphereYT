@@ -1,5 +1,7 @@
 # 💫 About Me:
-I am a minecraft developer plugins/skripts<br>configs and discord bot coder node.js/python
+I am a minecraft developer plugins/skripts<br>configs
+discord bot coder node.js/python 
+web dev frontend developer+ backend | html,css node.js
 
 
 ## 🌐 Socials:
